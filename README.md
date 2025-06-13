@@ -47,7 +47,8 @@ pip install -r requirements.txt
 ```
 
 ### ▶️ Usage
-Run the application:
+1.) Add your LLM API Key and DB URI to .env file.<br>
+2.) Run the application:
 ```bash
 streamlit run main.py
 ```
